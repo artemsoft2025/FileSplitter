@@ -615,7 +615,7 @@
 
 ---
 
--   (c) Артем Кашанин, 2026, koscl@yandex.ru
+-   (c) AKSoft, 2026, koscl@yandex.ru
 -   GitHub:   https://github.com/artemsoft2025/
 -   Telegram: https://t.me/avhelpnew
   
